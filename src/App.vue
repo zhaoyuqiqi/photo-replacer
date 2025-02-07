@@ -16,11 +16,12 @@ onMounted(() => {
   window.utools.onPluginOut((isKill) => {
     route.value = ''
   })
+  
 })
 </script>
 
 <template>
-  <template v-if="route === 'hello'">
+  <template v-if="route === 'home'">
     <!-- <Hello :enterAction="enterAction"></Hello> -->
      <home/>
   </template>

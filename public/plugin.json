@@ -7,11 +7,11 @@
   },
   "features": [
     {
-      "code": "hello",
+      "code": "home",
       "explain": "这是插件应用的第一个功能",
       "cmds": [
-        "你好",
-        "hello"
+        "颜色替换助手",
+        "aaaaa"
       ]
     },
     {
